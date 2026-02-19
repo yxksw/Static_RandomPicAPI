@@ -482,7 +482,7 @@ function createDemoHtml() {
     <h1>Static Random Pic API (Client-Side)</h1>
     <p>
         This is a static implementation. Images are randomized at build time.
-        <a href="https://gallery.acofork.com" class="btn" style="float: right;">View Gallery</a>
+        <a href="https://2x.nz/gallery/" class="btn" style="float: right;">View Gallery</a>
     </p>
 
     <div class="card">
